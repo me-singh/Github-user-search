@@ -1,2 +1,2 @@
 # Github-user-search
-search github users using name of the user
+search github users using user name as key in github api.
